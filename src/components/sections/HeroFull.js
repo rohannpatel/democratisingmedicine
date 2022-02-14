@@ -50,7 +50,7 @@ class HeroFull extends React.Component {
           <div className={innerClasses}>
             <div className="hero-content">
               <h1 className="mt-0 mb-16 reveal-from-top" data-reveal-delay="150">
-                Landing template for startups
+                Hello from Amplify
               </h1>
               <div className="container-xs">
                 <p className="m-0 mb-32 reveal-from-top" data-reveal-delay="300">
